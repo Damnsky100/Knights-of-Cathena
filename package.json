@@ -1,0 +1,28 @@
+{
+  "name": "knights-of-cathena",
+  "version": "1.0.0",
+  "description": "Website for the french community",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Damnsky100/Knights-of-Cathena.git"
+  },
+  "author": "Sébastien Caron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Damnsky100/Knights-of-Cathena/issues"
+  },
+  "homepage": "https://github.com/Damnsky100/Knights-of-Cathena#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1"
+  }
+}
